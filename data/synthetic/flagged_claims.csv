@@ -1,0 +1,309 @@
+claim_id,hospital_code,diagnosis_en,amount_hkd,hko_signal,cpp_score,cpp_flagged,ml_anomaly,final_flag
+CLM00004,PWH,gastroenteritis,593,9,0.85,1.0,-1,True
+CLM00034,Gleneagles,common cold,1064,9,0.85,1.0,-1,True
+CLM00058,PWH,gastroenteritis,890,10,0.85,1.0,-1,True
+CLM00060,Gleneagles,fracture,17102,8,0.05,0.0,-1,True
+CLM00064,QMH,common cold,550,9,0.85,1.0,-1,True
+CLM00158,Gleneagles,urti,903,8,0.85,1.0,1,True
+CLM00193,QEH,common cold,738,8,0.85,1.0,1,True
+CLM00276,QEH,urti,664,8,0.85,1.0,-1,True
+CLM00308,HKSH,common cold,1362,9,0.85,1.0,-1,True
+CLM00347,QEH,common cold,432,8,0.85,1.0,-1,True
+CLM00373,QEH,common cold,646,8,0.85,1.0,-1,True
+CLM00380,QMH,common cold,757,8,0.85,1.0,1,True
+CLM00409,QEH,common cold,271,9,0.85,1.0,-1,True
+CLM00477,QEH,gastroenteritis,1252,9,0.85,1.0,-1,True
+CLM00495,CUHKMC,emergency appendicitis,17520,10,0.05,0.0,-1,True
+CLM00524,PWH,common cold,267,10,0.85,1.0,-1,True
+CLM00537,CUHKMC,common cold,830,9,0.85,1.0,-1,True
+CLM00554,Gleneagles,common cold,968,8,0.85,1.0,1,True
+CLM00622,CUHKMC,gastroenteritis,3237,8,0.85,1.0,-1,True
+CLM00685,HKSH,emergency appendicitis,9616,10,0.05,0.0,-1,True
+CLM00740,PWH,urti,623,8,0.85,1.0,-1,True
+CLM00787,Gleneagles,common cold,1478,10,0.85,1.0,-1,True
+CLM00824,PWH,urti,455,10,0.85,1.0,-1,True
+CLM00852,PWH,gastroenteritis,1036,8,0.85,1.0,1,True
+CLM00897,HKSH,gastroenteritis,3032,9,0.85,1.0,-1,True
+CLM00905,CUHKMC,fracture,17013,10,0.05,0.0,-1,True
+CLM00931,QEH,gastroenteritis,862,9,0.85,1.0,-1,True
+CLM00944,HKSH,common cold,1036,8,0.85,1.0,1,True
+CLM00954,CUHKMC,fracture,19924,9,0.05,0.0,-1,True
+CLM00956,HKSH,urti,858,10,0.85,1.0,-1,True
+CLM00959,QEH,common cold,490,8,0.85,1.0,-1,True
+CLM00961,CUHKMC,fracture,10955,9,0.05,0.0,-1,True
+CLM00969,Gleneagles,gastroenteritis,2575,9,0.85,1.0,-1,True
+CLM00996,HKSH,gastroenteritis,1802,10,0.85,1.0,-1,True
+CLM01209,HKSH,emergency appendicitis,18074,9,0.05,0.0,-1,True
+CLM01228,PWH,urti,367,10,0.85,1.0,-1,True
+CLM01229,Gleneagles,urti,1125,10,0.85,1.0,-1,True
+CLM01258,QMH,common cold,660,8,0.85,1.0,-1,True
+CLM01264,PWH,common cold,701,8,0.85,1.0,1,True
+CLM01277,Gleneagles,common cold,1365,8,0.85,1.0,-1,True
+CLM01284,CUHKMC,emergency appendicitis,19880,10,0.05,0.0,-1,True
+CLM01286,PWH,emergency appendicitis,9385,9,0.05,0.0,-1,True
+CLM01297,QMH,emergency appendicitis,17882,10,0.05,0.0,-1,True
+CLM01308,QMH,common cold,349,8,0.85,1.0,-1,True
+CLM01330,CUHKMC,fracture,13287,9,0.05,0.0,-1,True
+CLM01375,CUHKMC,common cold,842,10,0.85,1.0,-1,True
+CLM01387,PWH,gastroenteritis,670,8,0.85,1.0,-1,True
+CLM01409,HKSH,emergency appendicitis,17982,10,0.05,0.0,-1,True
+CLM01410,PWH,common cold,620,10,0.85,1.0,-1,True
+CLM01413,Gleneagles,common cold,1548,9,0.85,1.0,-1,True
+CLM01474,QMH,urti,371,9,0.85,1.0,-1,True
+CLM01522,QEH,common cold,443,8,0.85,1.0,-1,True
+CLM01566,CUHKMC,fracture,18351,10,0.05,0.0,-1,True
+CLM01568,PWH,emergency appendicitis,16578,10,0.05,0.0,-1,True
+CLM01576,Gleneagles,emergency appendicitis,9059,10,0.05,0.0,-1,True
+CLM01585,PWH,gastroenteritis,581,8,0.85,1.0,1,True
+CLM01617,PWH,urti,427,10,0.85,1.0,-1,True
+CLM01693,PWH,emergency appendicitis,17937,8,0.05,0.0,-1,True
+CLM01702,CUHKMC,common cold,707,9,0.85,1.0,-1,True
+CLM01711,CUHKMC,gastroenteritis,2255,10,0.85,1.0,-1,True
+CLM01729,Gleneagles,gastroenteritis,1288,8,0.85,1.0,-1,True
+CLM01765,Gleneagles,common cold,1632,10,0.85,1.0,-1,True
+CLM01792,HKSH,fracture,14963,10,0.05,0.0,-1,True
+CLM01836,Gleneagles,urti,1417,9,0.85,1.0,-1,True
+CLM01842,CUHKMC,urti,1324,8,0.85,1.0,-1,True
+CLM01876,PWH,gastroenteritis,1101,8,0.85,1.0,-1,True
+CLM01894,QMH,gastroenteritis,571,10,0.85,1.0,-1,True
+CLM01927,CUHKMC,emergency appendicitis,9169,9,0.05,0.0,-1,True
+CLM01951,QMH,common cold,368,10,0.85,1.0,-1,True
+CLM01989,QMH,common cold,583,10,0.85,1.0,-1,True
+CLM02043,Gleneagles,fracture,10906,9,0.05,0.0,-1,True
+CLM02062,PWH,urti,380,10,0.85,1.0,-1,True
+CLM02081,Gleneagles,common cold,1701,10,0.85,1.0,-1,True
+CLM02108,CUHKMC,fracture,19995,9,0.05,0.0,-1,True
+CLM02186,QMH,common cold,795,9,0.85,1.0,-1,True
+CLM02236,Gleneagles,common cold,1445,9,0.85,1.0,-1,True
+CLM02240,HKSH,emergency appendicitis,11430,10,0.05,0.0,-1,True
+CLM02290,CUHKMC,urti,1388,9,0.85,1.0,-1,True
+CLM02307,PWH,gastroenteritis,1400,9,0.85,1.0,-1,True
+CLM02348,CUHKMC,common cold,1441,8,0.85,1.0,-1,True
+CLM02357,CUHKMC,gastroenteritis,1623,10,0.85,1.0,-1,True
+CLM02368,Gleneagles,gastroenteritis,2793,10,0.85,1.0,-1,True
+CLM02385,Gleneagles,gastroenteritis,1688,10,0.85,1.0,-1,True
+CLM02396,CUHKMC,emergency appendicitis,14895,10,0.05,0.0,-1,True
+CLM02404,QEH,common cold,686,10,0.85,1.0,-1,True
+CLM02482,HKSH,fracture,19830,8,0.05,0.0,-1,True
+CLM02536,HKSH,emergency appendicitis,16322,9,0.05,0.0,-1,True
+CLM02550,Gleneagles,gastroenteritis,2288,10,0.85,1.0,-1,True
+CLM02551,QEH,gastroenteritis,1163,9,0.85,1.0,-1,True
+CLM02552,Gleneagles,fracture,13067,9,0.05,0.0,-1,True
+CLM02555,QMH,emergency appendicitis,12968,10,0.05,0.0,-1,True
+CLM02565,Gleneagles,fracture,13036,9,0.05,0.0,-1,True
+CLM02571,QEH,urti,188,8,0.85,1.0,-1,True
+CLM02620,HKSH,common cold,1745,8,0.85,1.0,-1,True
+CLM02655,QEH,emergency appendicitis,17505,8,0.05,0.0,-1,True
+CLM02676,HKSH,common cold,1405,10,0.85,1.0,-1,True
+CLM02690,HKSH,gastroenteritis,1838,8,0.85,1.0,-1,True
+CLM02712,Gleneagles,urti,556,8,0.85,1.0,-1,True
+CLM02753,QMH,gastroenteritis,1106,8,0.85,1.0,-1,True
+CLM02756,Gleneagles,emergency appendicitis,11469,10,0.05,0.0,-1,True
+CLM02760,HKSH,fracture,8138,9,0.05,0.0,-1,True
+CLM02834,CUHKMC,fracture,14144,10,0.05,0.0,-1,True
+CLM02868,HKSH,gastroenteritis,2052,8,0.85,1.0,-1,True
+CLM02879,QEH,common cold,508,8,0.85,1.0,-1,True
+CLM02965,HKSH,urti,1288,8,0.85,1.0,-1,True
+CLM03043,CUHKMC,urti,474,8,0.85,1.0,-1,True
+CLM03070,PWH,urti,591,8,0.85,1.0,1,True
+CLM03134,QMH,emergency appendicitis,17139,8,0.05,0.0,-1,True
+CLM03172,PWH,common cold,499,10,0.85,1.0,-1,True
+CLM03212,QEH,gastroenteritis,628,8,0.85,1.0,-1,True
+CLM03231,QMH,urti,774,8,0.85,1.0,1,True
+CLM03252,PWH,emergency appendicitis,16268,9,0.05,0.0,-1,True
+CLM03291,HKSH,gastroenteritis,3184,8,0.85,1.0,-1,True
+CLM03319,Gleneagles,urti,484,8,0.85,1.0,-1,True
+CLM03421,HKSH,common cold,1785,8,0.85,1.0,-1,True
+CLM03473,HKSH,urti,430,8,0.85,1.0,-1,True
+CLM03476,HKSH,urti,1491,9,0.85,1.0,-1,True
+CLM03535,QEH,urti,416,8,0.85,1.0,-1,True
+CLM03569,QMH,common cold,495,9,0.85,1.0,-1,True
+CLM03642,Gleneagles,urti,794,10,0.85,1.0,-1,True
+CLM03678,Gleneagles,gastroenteritis,1387,9,0.85,1.0,-1,True
+CLM03690,QEH,urti,480,9,0.85,1.0,-1,True
+CLM03691,HKSH,common cold,764,8,0.85,1.0,1,True
+CLM03749,HKSH,urti,1246,8,0.85,1.0,-1,True
+CLM03783,PWH,gastroenteritis,1355,10,0.85,1.0,-1,True
+CLM03824,PWH,urti,758,10,0.85,1.0,-1,True
+CLM03850,QMH,common cold,464,8,0.85,1.0,-1,True
+CLM03860,HKSH,gastroenteritis,2087,10,0.85,1.0,-1,True
+CLM03974,PWH,urti,454,9,0.85,1.0,-1,True
+CLM04036,QEH,urti,595,9,0.85,1.0,-1,True
+CLM04145,CUHKMC,fracture,8879,9,0.05,0.0,-1,True
+CLM04187,CUHKMC,emergency appendicitis,14784,9,0.05,0.0,-1,True
+CLM04195,QEH,urti,457,9,0.85,1.0,-1,True
+CLM04277,HKSH,emergency appendicitis,13585,9,0.05,0.0,-1,True
+CLM04324,QMH,common cold,300,8,0.85,1.0,-1,True
+CLM04331,CUHKMC,urti,1144,9,0.85,1.0,-1,True
+CLM04436,CUHKMC,emergency appendicitis,19670,8,0.05,0.0,-1,True
+CLM04453,CUHKMC,common cold,572,10,0.85,1.0,-1,True
+CLM04480,Gleneagles,common cold,898,8,0.85,1.0,1,True
+CLM04510,CUHKMC,urti,999,10,0.85,1.0,-1,True
+CLM04533,CUHKMC,gastroenteritis,2747,8,0.85,1.0,-1,True
+CLM04544,Gleneagles,fracture,19053,8,0.05,0.0,-1,True
+CLM04565,HKSH,fracture,18790,9,0.05,0.0,-1,True
+CLM04576,Gleneagles,fracture,13600,9,0.05,0.0,-1,True
+CLM04593,Gleneagles,emergency appendicitis,12883,10,0.05,0.0,-1,True
+CLM04594,PWH,urti,365,9,0.85,1.0,-1,True
+CLM04601,QEH,common cold,458,8,0.85,1.0,-1,True
+CLM04607,CUHKMC,emergency appendicitis,10402,10,0.05,0.0,-1,True
+CLM04625,QMH,urti,744,8,0.85,1.0,1,True
+CLM04740,HKSH,common cold,743,8,0.85,1.0,1,True
+CLM04791,QMH,common cold,796,9,0.85,1.0,-1,True
+CLM04824,QMH,common cold,538,9,0.85,1.0,-1,True
+CLM04852,CUHKMC,common cold,495,10,0.85,1.0,-1,True
+CLM04854,Gleneagles,urti,896,9,0.85,1.0,-1,True
+CLM04863,HKSH,emergency appendicitis,16105,10,0.05,0.0,-1,True
+CLM04923,PWH,common cold,575,10,0.85,1.0,-1,True
+CLM04966,QEH,common cold,386,8,0.85,1.0,-1,True
+CLM05015,Gleneagles,gastroenteritis,2807,10,0.85,1.0,-1,True
+CLM05016,Gleneagles,gastroenteritis,2050,10,0.85,1.0,-1,True
+CLM05025,QEH,common cold,549,9,0.85,1.0,-1,True
+CLM05044,CUHKMC,urti,492,8,0.85,1.0,-1,True
+CLM05053,QMH,gastroenteritis,604,8,0.85,1.0,1,True
+CLM05135,Gleneagles,common cold,1166,10,0.85,1.0,-1,True
+CLM05191,QMH,urti,389,9,0.85,1.0,-1,True
+CLM05212,Gleneagles,urti,1526,10,0.85,1.0,-1,True
+CLM05218,HKSH,emergency appendicitis,15950,10,0.05,0.0,-1,True
+CLM05253,HKSH,common cold,666,8,0.85,1.0,-1,True
+CLM05257,HKSH,emergency appendicitis,16646,10,0.05,0.0,-1,True
+CLM05276,PWH,emergency appendicitis,15300,9,0.05,0.0,-1,True
+CLM05294,QMH,gastroenteritis,780,10,0.85,1.0,-1,True
+CLM05327,Gleneagles,gastroenteritis,3228,8,0.85,1.0,-1,True
+CLM05351,HKSH,gastroenteritis,1858,10,0.85,1.0,-1,True
+CLM05352,CUHKMC,urti,1046,10,0.85,1.0,-1,True
+CLM05354,QMH,gastroenteritis,1479,8,0.85,1.0,-1,True
+CLM05360,Gleneagles,urti,830,10,0.85,1.0,-1,True
+CLM05394,PWH,emergency appendicitis,8159,10,0.05,0.0,-1,True
+CLM05430,QEH,emergency appendicitis,15659,10,0.05,0.0,-1,True
+CLM05450,Gleneagles,common cold,1402,8,0.85,1.0,-1,True
+CLM05455,PWH,common cold,446,9,0.85,1.0,-1,True
+CLM05484,CUHKMC,urti,1102,10,0.85,1.0,-1,True
+CLM05493,Gleneagles,urti,905,10,0.85,1.0,-1,True
+CLM05503,HKSH,common cold,1347,10,0.85,1.0,-1,True
+CLM05559,CUHKMC,urti,1055,10,0.85,1.0,-1,True
+CLM05562,HKSH,gastroenteritis,1735,9,0.85,1.0,-1,True
+CLM05572,QEH,emergency appendicitis,19915,9,0.05,0.0,-1,True
+CLM05595,CUHKMC,fracture,10977,9,0.05,0.0,-1,True
+CLM05601,Gleneagles,urti,1310,8,0.85,1.0,-1,True
+CLM05626,QEH,common cold,339,8,0.85,1.0,-1,True
+CLM05664,Gleneagles,urti,585,10,0.85,1.0,-1,True
+CLM05673,CUHKMC,common cold,1094,8,0.85,1.0,-1,True
+CLM05677,Gleneagles,urti,582,9,0.85,1.0,-1,True
+CLM05688,PWH,gastroenteritis,948,10,0.85,1.0,-1,True
+CLM05715,QMH,common cold,292,8,0.85,1.0,-1,True
+CLM05733,HKSH,emergency appendicitis,15157,10,0.05,0.0,-1,True
+CLM05767,Gleneagles,common cold,1237,9,0.85,1.0,-1,True
+CLM05799,CUHKMC,common cold,1716,8,0.85,1.0,-1,True
+CLM05812,HKSH,urti,1319,9,0.85,1.0,-1,True
+CLM05815,HKSH,fracture,17757,9,0.05,0.0,-1,True
+CLM05908,HKSH,gastroenteritis,2953,8,0.85,1.0,-1,True
+CLM05926,Gleneagles,urti,480,10,0.85,1.0,-1,True
+CLM05961,QMH,gastroenteritis,725,8,0.85,1.0,1,True
+CLM05998,HKSH,emergency appendicitis,16915,8,0.05,0.0,-1,True
+CLM06010,CUHKMC,gastroenteritis,2278,10,0.85,1.0,-1,True
+CLM06099,HKSH,urti,1061,8,0.85,1.0,-1,True
+CLM06104,QMH,common cold,485,8,0.85,1.0,-1,True
+CLM06114,Gleneagles,fracture,12514,9,0.05,0.0,-1,True
+CLM06124,HKSH,emergency appendicitis,14542,9,0.05,0.0,-1,True
+CLM06138,HKSH,common cold,1641,10,0.85,1.0,-1,True
+CLM06143,CUHKMC,gastroenteritis,2437,8,0.85,1.0,-1,True
+CLM06164,Gleneagles,common cold,1360,8,0.85,1.0,-1,True
+CLM06172,CUHKMC,gastroenteritis,1439,8,0.85,1.0,-1,True
+CLM06243,QMH,emergency appendicitis,10047,10,0.05,0.0,-1,True
+CLM06263,QEH,gastroenteritis,581,10,0.85,1.0,-1,True
+CLM06264,QMH,common cold,188,8,0.85,1.0,-1,True
+CLM06274,QMH,common cold,266,8,0.85,1.0,-1,True
+CLM06315,HKSH,urti,1209,9,0.85,1.0,-1,True
+CLM06414,HKSH,common cold,1241,9,0.85,1.0,-1,True
+CLM06486,PWH,common cold,798,10,0.85,1.0,-1,True
+CLM06532,QEH,urti,341,8,0.85,1.0,-1,True
+CLM06586,CUHKMC,common cold,1650,10,0.85,1.0,-1,True
+CLM06680,QEH,common cold,368,10,0.85,1.0,-1,True
+CLM06701,CUHKMC,gastroenteritis,1580,10,0.85,1.0,-1,True
+CLM06732,QEH,urti,274,10,0.85,1.0,-1,True
+CLM06868,PWH,urti,191,9,0.85,1.0,-1,True
+CLM06888,Gleneagles,gastroenteritis,1613,9,0.85,1.0,-1,True
+CLM06902,CUHKMC,emergency appendicitis,18330,9,0.05,0.0,-1,True
+CLM06923,QMH,common cold,326,10,0.85,1.0,-1,True
+CLM06927,QMH,emergency appendicitis,19651,9,0.05,0.0,-1,True
+CLM06936,Gleneagles,fracture,10663,10,0.05,0.0,-1,True
+CLM07004,CUHKMC,urti,1756,8,0.85,1.0,-1,True
+CLM07079,QMH,urti,800,8,0.85,1.0,1,True
+CLM07114,QEH,common cold,488,8,0.85,1.0,-1,True
+CLM07163,CUHKMC,emergency appendicitis,17825,8,0.05,0.0,-1,True
+CLM07198,QMH,gastroenteritis,685,8,0.85,1.0,-1,True
+CLM07217,QMH,emergency appendicitis,16755,10,0.05,0.0,-1,True
+CLM07251,PWH,gastroenteritis,601,10,0.85,1.0,-1,True
+CLM07385,PWH,urti,359,8,0.85,1.0,-1,True
+CLM07391,CUHKMC,common cold,1083,10,0.85,1.0,-1,True
+CLM07399,Gleneagles,fracture,17115,9,0.05,0.0,-1,True
+CLM07451,Gleneagles,common cold,1505,10,0.85,1.0,-1,True
+CLM07516,HKSH,fracture,8022,10,0.05,0.0,-1,True
+CLM07531,HKSH,common cold,1541,8,0.85,1.0,-1,True
+CLM07540,QEH,common cold,618,10,0.85,1.0,-1,True
+CLM07635,Gleneagles,fracture,13436,9,0.05,0.0,-1,True
+CLM07643,HKSH,gastroenteritis,2717,8,0.85,1.0,-1,True
+CLM07678,QMH,urti,689,9,0.85,1.0,-1,True
+CLM07679,QMH,gastroenteritis,1361,8,0.85,1.0,-1,True
+CLM07724,QEH,gastroenteritis,897,10,0.85,1.0,-1,True
+CLM07726,HKSH,common cold,671,8,0.85,1.0,-1,True
+CLM07768,PWH,gastroenteritis,725,10,0.85,1.0,-1,True
+CLM07806,PWH,gastroenteritis,869,10,0.85,1.0,-1,True
+CLM07879,Gleneagles,urti,833,8,0.85,1.0,-1,True
+CLM07881,PWH,urti,659,8,0.85,1.0,-1,True
+CLM07901,HKSH,emergency appendicitis,8844,9,0.05,0.0,-1,True
+CLM07981,QEH,common cold,755,8,0.85,1.0,1,True
+CLM07983,Gleneagles,gastroenteritis,2696,10,0.85,1.0,-1,True
+CLM07987,HKSH,urti,1796,8,0.85,1.0,-1,True
+CLM08002,CUHKMC,common cold,527,10,0.85,1.0,-1,True
+CLM08018,QEH,gastroenteritis,1016,10,0.85,1.0,-1,True
+CLM08031,HKSH,common cold,1162,9,0.85,1.0,-1,True
+CLM08036,Gleneagles,urti,1577,8,0.85,1.0,-1,True
+CLM08064,QEH,common cold,691,8,0.85,1.0,-1,True
+CLM08066,PWH,gastroenteritis,1128,9,0.85,1.0,-1,True
+CLM08114,QMH,urti,743,8,0.85,1.0,1,True
+CLM08122,CUHKMC,gastroenteritis,3422,8,0.85,1.0,-1,True
+CLM08180,QEH,urti,214,9,0.85,1.0,-1,True
+CLM08184,HKSH,urti,597,10,0.85,1.0,-1,True
+CLM08258,PWH,urti,776,8,0.85,1.0,1,True
+CLM08359,QEH,urti,799,9,0.85,1.0,-1,True
+CLM08543,CUHKMC,gastroenteritis,1943,8,0.85,1.0,-1,True
+CLM08547,CUHKMC,urti,1713,8,0.85,1.0,-1,True
+CLM08610,HKSH,urti,1379,10,0.85,1.0,-1,True
+CLM08629,Gleneagles,urti,1009,8,0.85,1.0,1,True
+CLM08634,CUHKMC,urti,705,9,0.85,1.0,-1,True
+CLM08686,Gleneagles,emergency appendicitis,9763,10,0.05,0.0,-1,True
+CLM08733,Gleneagles,common cold,1531,8,0.85,1.0,-1,True
+CLM08734,QEH,urti,185,8,0.85,1.0,-1,True
+CLM08754,HKSH,urti,1119,8,0.85,1.0,-1,True
+CLM08802,CUHKMC,fracture,10906,10,0.05,0.0,-1,True
+CLM08868,CUHKMC,gastroenteritis,3483,8,0.85,1.0,-1,True
+CLM08972,HKSH,common cold,587,8,0.85,1.0,1,True
+CLM08997,QMH,common cold,234,8,0.85,1.0,-1,True
+CLM09017,QMH,common cold,523,8,0.85,1.0,-1,True
+CLM09042,QMH,common cold,617,8,0.85,1.0,-1,True
+CLM09069,HKSH,emergency appendicitis,9483,9,0.05,0.0,-1,True
+CLM09076,QMH,urti,566,10,0.85,1.0,-1,True
+CLM09195,QEH,common cold,464,9,0.85,1.0,-1,True
+CLM09232,CUHKMC,fracture,14479,10,0.05,0.0,-1,True
+CLM09286,PWH,urti,402,8,0.85,1.0,-1,True
+CLM09317,HKSH,urti,1352,10,0.85,1.0,-1,True
+CLM09352,HKSH,urti,1146,9,0.85,1.0,-1,True
+CLM09370,CUHKMC,common cold,1306,10,0.85,1.0,-1,True
+CLM09389,QEH,gastroenteritis,1203,8,0.85,1.0,-1,True
+CLM09407,HKSH,urti,818,10,0.85,1.0,-1,True
+CLM09435,Gleneagles,common cold,1116,8,0.85,1.0,-1,True
+CLM09442,CUHKMC,fracture,19792,10,0.05,0.0,-1,True
+CLM09452,QMH,gastroenteritis,1481,8,0.85,1.0,-1,True
+CLM09470,QMH,common cold,274,8,0.85,1.0,-1,True
+CLM09507,PWH,urti,391,9,0.85,1.0,-1,True
+CLM09637,QEH,gastroenteritis,1413,9,0.85,1.0,-1,True
+CLM09721,CUHKMC,gastroenteritis,1255,10,0.85,1.0,-1,True
+CLM09727,QMH,common cold,449,8,0.85,1.0,-1,True
+CLM09775,QMH,gastroenteritis,1177,8,0.85,1.0,1,True
+CLM09807,QMH,common cold,573,8,0.85,1.0,1,True
+CLM09811,CUHKMC,urti,1085,10,0.85,1.0,-1,True
+CLM09900,Gleneagles,urti,1315,8,0.85,1.0,-1,True
+CLM09901,Gleneagles,emergency appendicitis,12449,9,0.05,0.0,-1,True
+CLM09985,HKSH,urti,631,10,0.85,1.0,-1,True

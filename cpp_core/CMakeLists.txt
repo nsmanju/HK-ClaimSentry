@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(claim_engine_cpp)
+set(CMAKE_CXX_STANDARD 17)
+find_package(pybind11 REQUIRED)
+include_directories(include)
+pybind11_add_module(claim_engine_cpp src/rule_engine.cpp src/pybind_wrapper.cpp)
