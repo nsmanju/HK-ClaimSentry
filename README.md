@@ -2,7 +2,7 @@
 
 **308/10000 flagged (3.1%) | 500k claims/sec | C++17 + pybind11 + IsolationForest | HK-specific**
 
-Built by **Nadkalpur Manjunath** — HK InsurTech veteran focus.
+Built by **Nadkalpur Manjunath** — HK InsurTech.
 
 ### 🎯 Target: Hong Kong Virtual Insurers — Bowtie, ZA, Blue, OneDegree
 
@@ -12,7 +12,7 @@ python3 -m uvicorn python_core.api:app --reload --port 8000
 # Open http://localhost:8000/docs
 ```
 
-### 4 Rules + Weightage (Memorize This)
+### 4 Rules + Weightage 
 **0.95 = law broken, block. 0.85 = typhoon impossible, check. 0.75 = too expensive, review. ML = unknown pattern learned.**
 
 | Rule | Example | Weight | Meaning |
@@ -47,7 +47,6 @@ final_flag = cpp_flagged or (ml_anomaly and amount_hkd > 8000)
 
 ### Docs
 - [Full Engine Explanation v3 (with Weightage)](docs/HK_Insurance_Fintech_Engine_Explanation.pdf)
-- [1-Page Interview Cheat Sheet](docs/HK_ClaimSentry_Interview_Cheat_Sheet.pdf)
 - [4 Tests Board — Screenshot Ready](docs/HK_ClaimSentry_4_Tests_Board.pdf)
 
 ### Why C++ + Python?
