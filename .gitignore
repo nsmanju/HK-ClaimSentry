@@ -1,0 +1,7 @@
+cpp_core/build/
+__pycache__/
+*.pyc
+.venv/
+*.so
+data/synthetic/hk_claims_10k.csv
+*.log
